@@ -1,0 +1,12 @@
+{
+    "main": "challenge.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "jsonwebtoken": "^8.5.1",
+        "nodemon": "^2.0.1",
+        "passport-jwt": "^4.0.0",
+        "passport-local": "^1.0.0",
+        "sqlite3": "^4.1.0",
+        "uniqid": "^5.1.0"
+    }
+}
