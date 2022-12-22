@@ -2,7 +2,7 @@
     "main": "challenge.js",
     "dependencies": {
         "body-parser": "^1.19.0",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "nodemon": "^2.0.1",
         "passport-jwt": "^4.0.0",
         "passport-local": "^1.0.0",
